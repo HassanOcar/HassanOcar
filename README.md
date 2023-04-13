@@ -12,3 +12,7 @@ Hi there 👋 My name is Hassan Ocar and I am a Full-Stack web developer based i
 - ⚡ Fun fact: In my free time i try to learn about Electron.js in this time
 
 
+MY SKILLS SET
+
+FRONT END
+![typescript (1)](https://user-images.githubusercontent.com/109442526/231745168-54d1b8b3-f85a-471f-9f7f-95aa9b8dd779.png)
