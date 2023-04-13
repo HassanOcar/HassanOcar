@@ -14,5 +14,6 @@ Hi there 👋 My name is Hassan Ocar and I am a Full-Stack web developer based i
 
 MY SKILLS SET
 
-FRONT END
-![typescript (1)](https://user-images.githubusercontent.com/109442526/231745168-54d1b8b3-f85a-471f-9f7f-95aa9b8dd779.png)
+
+![frontenSetSkill](https://user-images.githubusercontent.com/109442526/231747401-64ac66d1-7025-4bcb-a1a2-2fb37543d4e1.png)                
+![backendSetSkill](https://user-images.githubusercontent.com/109442526/231747456-56b6351e-1250-4687-918b-658cf33bc4c2.png)
